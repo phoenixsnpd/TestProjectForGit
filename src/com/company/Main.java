@@ -8,5 +8,6 @@ public class Main {
         for (String x : git) {
             System.out.println(x);
         }
+        System.out.println("Вносим первое изменение!");
     }
 }
